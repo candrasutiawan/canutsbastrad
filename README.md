@@ -1,0 +1,2 @@
+# canutsbastrad
+repository pertama gue
